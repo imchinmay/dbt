@@ -14,6 +14,6 @@ These select statements, or "models", form a dbt project. Models frequently buil
 - Simulating the life of an AE in Airbnb
 - Loading, Cleansing, Exposing the data
 - Writing test, automations and docs
-- Data Source: Inside Airbnb - Taking Paris as my example
+- Data Source: Inside Airbnb - Taking Berlin as an example
 
 
